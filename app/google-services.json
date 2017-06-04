@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "420791290341",
+    "firebase_url": "https://testui-b447d.firebaseio.com",
+    "project_id": "testui-b447d",
+    "storage_bucket": "testui-b447d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420791290341:android:5ba04ff5bd655b52",
+        "android_client_info": {
+          "package_name": "com.vasileiou.testui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420791290341-03arhvf58ksj1ggnubvub0gd679ll8ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vasileiou.testui",
+            "certificate_hash": "da0e3dfdaf3994b8b2a4782cd7e589e9743e2bf8"
+          }
+        },
+        {
+          "client_id": "420791290341-410h2d7rif15i086l75bd7qbqnulopi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGq0iVY3esxzCcvE2SLSFmDPNQbzmvcRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420791290341-410h2d7rif15i086l75bd7qbqnulopi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
